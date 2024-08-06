@@ -1,2 +1,2 @@
 # Movie_Recommendation_System
-This is a simple Movie_Recommendation_System using ML
+This is a simple Movie Recommendation System using ML
